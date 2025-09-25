@@ -3,10 +3,12 @@ A simple console-based CRUD (Create, Read, Update, Delete) application built wit
 
 ## Screenshots
 ### Insert, Update, Delete and Error Handling
-[!CUD](https://github.com/thetnaing-dh/ADONET_CRUD_Console_Application/blob/master/OperateData.png)
+
+![Alt CUDImage](https://github.com/thetnaing-dh/ADONET_CRUD_Console_Application/blob/646fb1741b3a3b7cdcb0e6472061576b194c25d7/OperateData.png)
 
 ### Read Data
-[!Read](https://github.com/thetnaing-dh/ADONET_CRUD_Console_Application/blob/master/ReadData.png)
+
+![Alt ReadImage](https://github.com/thetnaing-dh/ADONET_CRUD_Console_Application/blob/646fb1741b3a3b7cdcb0e6472061576b194c25d7/ReadData.png)
 
 ## Features
 * Read Blogs: Display all active blog entries from the database

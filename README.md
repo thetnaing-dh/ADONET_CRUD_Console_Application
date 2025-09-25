@@ -1,6 +1,13 @@
 # ADONET CRUD Console Application
 A simple console-based CRUD (Create, Read, Update, Delete) application built with C# and ADO.NET for managing blog entries in a SQL Server database.
 
+## Screenshots
+### Insert, Update, Delete and Error Handling
+[!CUD](https://github.com/thetnaing-dh/ADONET_CRUD_Console_Application/blob/master/OperateData.png)
+
+### Read Data
+[!Read](https://github.com/thetnaing-dh/ADONET_CRUD_Console_Application/blob/master/ReadData.png)
+
 ## Features
 * Read Blogs: Display all active blog entries from the database
 * Create Blog: Add new blog entries with title, author, and content

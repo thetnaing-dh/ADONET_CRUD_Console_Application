@@ -49,17 +49,21 @@ Note: Update the connection string with your actual SQL Server credentials and i
 
 ## Installation & Usage
 1. Clone or Download the source code
-2. Compile the application using Visual Studio or .NET CLI:
+
+        git clone https://github.com/thetnaing-dh/ADONET_CRUD_Console_Application
+        cd blog-data-reader
+   
+3. Compile the application using Visual Studio or .NET CLI:
 
         bash
         dotnet build
 
-3. Run the application:
+4. Run the application:
 
         bash
         dotnet run
 
-4. Follow the menu prompts:
+5. Follow the menu prompts:
 
 * Press R to Read all blogs
 * Press C to Create a new blog
